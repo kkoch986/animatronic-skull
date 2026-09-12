@@ -42,12 +42,14 @@
 | Cross recessed flat head countersunk tapping screw ST2.2x6.5 Stainless Steel | 2 | servo mounting screws | Hardware |
 | servo shaft coupling | 1 | servo shaft coupling | Hardware |
 
-## Repos
+## Related Projects
 
-| Repo | Purpose | Docs |
-|------|---------|------|
+| Project | Purpose | Docs |
+|---------|---------|------|
 | [kkoch986/skeleton-board-v3](https://github.com/kkoch986/skeleton-board-v3) | Main animatronic control board — ESP32-S3, 16-servo PCA9685 driver, DMX512 input | [README](https://github.com/kkoch986/skeleton-board-v3#readme) |
 | [kkoch986/skeleton-eyes](https://github.com/kkoch986/skeleton-eyes) | Eye display system — dual 1.28" TFT eyes, I2C control | [README](https://github.com/kkoch986/skeleton-eyes#readme) |
+
+Eye wiring diagram: [skeleton-eyes/wiring.svg](https://github.com/kkoch986/skeleton-eyes/blob/master/wiring.svg)
 
 ## Build Process Overview
 
@@ -61,7 +63,3 @@
 ## Mechanical Assembly
 
 Follow the 12-step assembly guide in [`assembly-guide.pdf`](assembly-guide.pdf) — it covers the full build: pan/tilt platform, nod arch, rotation arm, spine adapter, PCB mounting, jaw, eyes, and outer skull shell.
-
-### Related Repos
-
-- Eye wiring diagram: [skeleton-eyes/wiring.svg](https://github.com/kkoch986/skeleton-eyes/blob/master/wiring.svg)
