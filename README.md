@@ -198,5 +198,4 @@ Mount the skull to the fixture. Verify all pieces move unobstructed; final limit
 
 ### Related Repos
 
-- `skeleton-eye2` local copy == `kkoch986/skeleton-eyes`
 - Eye wiring diagram: [skeleton-eyes/wiring.svg](https://github.com/kkoch986/skeleton-eyes/blob/master/wiring.svg)
