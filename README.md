@@ -40,7 +40,7 @@
 | Socket button head screw M3x0.5 x 8 Stainless Steel Black Zinc | 18 | m3x8mm bolts | Hardware |
 | Comes with servo coupling | 1 | M6 Set Screw | Hardware |
 | Cross recessed flat head countersunk tapping screw ST2.2x6.5 Stainless Steel | 2 | servo mounting screws | Hardware |
-| servo shaft coupling | 1 | servo shaft coupling | Hardware |
+| Servo to Shaft Coupler (H25T Spline, 1/4" Bore) | 1 | Servo to Shaft Coupler (H25T Spline, 1/4" Bore) | Hardware |
 
 ## Related Projects
 
